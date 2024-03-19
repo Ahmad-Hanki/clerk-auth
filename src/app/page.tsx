@@ -11,7 +11,12 @@ export default function Home() {
             <p>Logout</p>
           </div>
         </section>
+        <div className="h-1 w-full bg-slate-400 mt-5 "/>
       </header>
+
+      <section className="h-[90vh] grid place-content-center">
+hh
+      </section>
     </main>
   );
 }
